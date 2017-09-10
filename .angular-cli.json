@@ -29,15 +29,11 @@
   },
   "lint": [
     {
-      "project": "src/tsconfig.app.json",
+      "project": "app/javascript/frontend/tsconfig.app.json",
       "exclude": "**/node_modules/**"
     },
     {
-      "project": "src/tsconfig.spec.json",
-      "exclude": "**/node_modules/**"
-    },
-    {
-      "project": "e2e/tsconfig.e2e.json",
+      "project": "app/javascript/frontend/tsconfig.spec.json",
       "exclude": "**/node_modules/**"
     }
   ],
