@@ -5,22 +5,15 @@
   },
   "apps": [
     {
-      "root": "src",
-      "outDir": "dist",
-      "assets": [
-        "assets",
-        "favicon.ico"
-      ],
+      "root": "app/javascript",
+      "assets": [ ],
       "index": "index.html",
-      "main": "main.ts",
-      "polyfills": "polyfills.ts",
-      "test": "test.ts",
-      "tsconfig": "tsconfig.app.json",
-      "testTsconfig": "tsconfig.spec.json",
+      "main": "frontend/index.ts",
+      "polyfills": "frontend/polyfills.ts",
+      "test": "frontend/test.ts",
+      "testTsconfig": "frontend/tsconfig.spec.json",
       "prefix": "app",
-      "styles": [
-        "styles.css"
-      ],
+      "styles": [ ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {
