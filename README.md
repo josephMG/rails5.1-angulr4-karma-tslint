@@ -1,24 +1,10 @@
-# README
+See blogs: 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Branch: method_1_failed
+#### Karma/tslint setting on Rails 5.1.3 + Angular 4— failed method
+https://medium.com/@joseph_bug/karma-tslint-setting-on-rails-5-1-3-angular-4-failed-method-e1b04b69699
 
-Things you may want to cover:
+### Branch: method_2_workable
+#### Karma/tslint setting on Rails 5.1.3 + Angular 4 — It works!
+https://medium.com/@joseph_bug/karma-tslint-setting-on-rails-5-1-3-angular-4-it-works-7328ee0e6d48
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
